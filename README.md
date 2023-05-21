@@ -1,6 +1,6 @@
 # CERT-AGUEDA
 
-Materiales utilizados en el programa de ejercico de fuerza del ensayo controlado aleatorio AGUEDA.
+Materiales utilizados en el programa de ejercicio de fuerza del proyecto AGUEDA (Active Gains in brain Using Exercise during Aging)
 _____________________________________________________________________________________________________
 
 El objetivo es proporcionar una descripción completa basada en las guías CERT (Consensus on Exercise Reporting Template) del programa de ejercicio de resistencia implementado en el proyecto AGUEDA (Active Gains in brain Using Exercise during Aging), un ensayo controlado aleatorio que investiga los efectos de un programa de ejercicio de fuerza supervisado de 24 semanas sobre la salud cerebral en adultos mayores cognitivamente normales.  El programa de entrenamiento llevado a cabo en el proyecto AGUEDA es un programa de bajo coste, factible (lo que favorece su aplicabilidad a cualquier población y contexto), diseñado bajo evidencia y replicable. Los materiales del programa de entrenamiento AGUEDA servirán a los investigadores y profesionales de la salud pública que deseen implementar un programa factible de ejercicios de fuerza/resistencia de 24 semanas basado en la evidencia en adultos mayores cognitivamente normales con potenciales beneficios sobre la salud cerebral.
@@ -64,7 +64,7 @@ Javier Fernández Ortega:  (jfdezortega@correo.ugr.es)
 _____________________________________________________________________________________________________
 _____________________________________________________________________________________________________
 
-Materials used in the Resistance exercise program of the AGUEDA randomized controlled trial.
+Materials used in the Resistance exercise program of the AGUEDA project (Active Gains in brain Using Exercise during Aging)
 _____________________________________________________________________________________________________
 
 The objective is to provide a comprehensive description based on CERT (Consensus on Exercise Reporting Template) guidelines of the resistance exercise program implemented in the AGUEDA (Active Gains in brain Using Exercise during Aging) project, a randomized controlled trial investigating the effects of a 24-week supervised strength exercise program on brain health in cognitively normal older adults.  The training program conducted in the AGUEDA project is a low-cost, feasible (which favors its applicability to any population and context), evidence-based and replicable program. The AGUEDA training program materials will serve researchers and public health professionals who wish to implement a feasible 24-week evidence-based strength/endurance exercise program in cognitively normal older adults with potential brain health benefits.
