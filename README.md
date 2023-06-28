@@ -8,23 +8,23 @@ El objetivo es proporcionar una descripción completa basada en las guías CERT 
 El programa AGUEDA consiste en una combinación de ejercicios para las extremidades superiores e inferiores utilizando bandas elásticas y el propio peso corporal como resistencia principal. Los ejercicios se centran en patrones de movimiento básicos. La carga y la intensidad se basan en la resistencia específica de las bandas elásticas (7 resistencias), el número de repeticiones (individualizado), la complejidad motriz de los ejercicios (3 niveles), las series y el descanso (3 series/60 segundos de descanso), el tiempo de ejecución (40-60 segundos) y la velocidad (lo más rápido posible). La intensidad máxima prescrita-objetivo fue del 70-80% de la percepción máxima de esfuerzo percibido de los participantes (7-8 RPE). Además permite el registro de la frecuencia cardiaca, la calidad del sueño y la escala de sensaciones.
 Los materiales disponibles son: 
 
--File A1	Registration sheet used by the participant.
+-Documento A1	Hoja de registro utilizada por el participante.
 
--File A2	Training sheets
+-Documento A2	Hojas de registro
 
--File A3	Individual Excel for registration of exercise data.
+-Documento A3. Excel individual de registro sesion entrenamiento.
 
--File A4	Generic Excel for registration of exercise data
+-Documento A4. Excel grupal de registro sesion entrenamiento
 
--File A5	Resistance exercise program of the AGUEDA trial: Paper guide
+-Documento A5. Programa de ejercicios de resistencia del ensayo AGUEDA Guia en papel
 
--File A6	Resistance exercise program of the AGUEDA trial: Video guide
+-Documento A6. Programa de ejercicios de resistencia del ensayo AGUEDA Guia en videos
 
--File A7	Adverse event questionnaire
+-Documento A7. Cuestionario de eventos adversos
 
--File A8	Online exercise program guide
+-Documento A8. Guia del programa de ejercicio online
 
--File A9	Flyer personal training center
+-Documento A9. Flyer centro entrenamiento personal
 
  A continuación se muestra un listado con los investigadores del proyecto
 
@@ -94,29 +94,29 @@ The materials available are:
 _____________________________________________________________________________________________________
 RESEARCH TEAM OF THE AGUEDA TRIAL:
 
-Irene Esteban Cornejo: Principal Investigator of the project (ireneesteban@ugr.es)
+Irene Esteban Cornejo: Investigadora Principal del proyecto (ireneesteban@ugr.es)
 
-Patricio Solís Urra: Project coordinator (patricio.solis.u@gmail.com)
+Patricio Solís Urra: Coordinador del proyecto (patricio.solis.u@gmail.com) 
 
-José Rafael Mora González: Postdoctoral researcher (jmorag@ugr.es)
+José Rafael Mora González: Investigador postdoctoral (jmorag@ugr.es)
 
-José Ángel Toval Sánchez: Postdoctoral researcher (joseangel.toval@um.es)
+José Ángel Toval Sánchez: Investigador postdoctoral (joseangel.toval@um.es) 
 
-Isabel Martín Fuentes: Postdoctoral researcher (isamartinf@ugr.es)
+Isabel Martín Fuentes: Investigadora postdoctoral, (isamartinf@ugr.es)
 
-Beatriz Fernández Gámez: Predoctoral researcher (beatriz_fg20@hotmail.es)
+Beatriz Fernández Gámez: Investigadora predoctoral, (beatrizfg@ugr.es)
 
-Marcos Olvera Rojas: Predoctoral researcher (olvera@ugr.es)
+Marcos Olvera Rojas: Investigador predoctoral, (olvera@ugr.es)
 
-Andrea Coca Pulido: Predoctoral researcher,(acocapulido@ugr.es)
+Andrea Coca Pulido: Investigadora predoctoral,(acocapulido@ugr.es)
 
-Darío Bellón Fernández: Predoctoral researcher,(dariobellon@ugr.es)
+Darío Bellón Fernández: Investigador predoctoral,  (dariobellon@ugr.es)
 
-Alessandro Sclafani: Predoctoral researcher,(alessandro.sclafani0@gmail.com)
+Alessandro Sclafani: Investigador predoctoral, (alessandro.sclafani0@gmail.com)
 
-Carlos Prieto Lara:  (carlosprieto92@gmail.com)
+Carlos Prieto Lara: (carlosprieto92@gmail.com)
 
-Javier Fernández Ortega: (jfdezortega@correo.ugr.es)
+Javier Fernández Ortega:  (jfdezortega@correo.ugr.es)
 
 
 
