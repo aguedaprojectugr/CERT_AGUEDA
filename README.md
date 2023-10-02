@@ -1,5 +1,70 @@
-# CERT-AGUEDA
 
+#Resistance Exercise Program in Cognitively Normal Older Adults: CERT-Based Exercise Protocol of the AGUEDA Randomized Controlled Trial
+_____________________________________________________________________________________________________
+
+Materials used in the Resistance exercise program of the AGUEDA project (Active Gains in brain Using Exercise during Aging)
+_____________________________________________________________________________________________________
+
+The objective is to provide a comprehensive description based on CERT (Consensus on Exercise Reporting Template) guidelines of the resistance exercise program implemented in the AGUEDA (Active Gains in brain Using Exercise during Aging) project, a randomized controlled trial investigating the effects of a 24-week supervised strength exercise program on brain health in cognitively normal older adults.  The training program conducted in the AGUEDA project is a low-cost, feasible (which favors its applicability to any population and context), evidence-based and replicable program. The AGUEDA training program materials will serve researchers and public health professionals who wish to implement a feasible 24-week evidence-based strength/endurance exercise program in cognitively normal older adults with potential brain health benefits.
+
+The AGUEDA program consists of a combination of upper and lower extremity exercises using elastic bands and one's own body weight as the primary resistance. The exercises focus on basic movement patterns. The load and intensity are based on the specific resistance of the elastic bands (7 resistances), the number of repetitions (individualized), the motor complexity of the exercises (3 levels), the sets and rest (3 sets/60 seconds rest), the execution time (40-60 seconds) and the speed (as fast as possible). The maximum prescribed-target intensity was 70-80% of the participants' maximum perceived exertion (7-8 RPE). It also allows the recording of heart rate, sleep quality and sensation scale.
+The materials available are: 
+
+-File A1 Registration sheet used by the participant.
+
+-File A2 Training sheets
+
+-File A3 Individual Excel for registration of exercise data.
+
+-File A4 Generic Excel for registration of exercise data.
+
+-File A5 Resistance exercise program of the AGUEDA trial: Paper guide.
+
+-File A6 Resistance exercise program of the AGUEDA trial: Video guide
+
+-File A7 Adverse event questionnaire
+
+-File A8 Online exercise program guide
+
+-File A9 Flyer personal training center
+
+ The following is a list of the researchers of the project
+_____________________________________________________________________________________________________
+RESEARCH TEAM OF THE AGUEDA TRIAL:
+
+Irene Esteban Cornejo: Investigadora Principal del proyecto (ireneesteban@ugr.es)
+
+Patricio Solís Urra: Coordinador del proyecto (patricio.solis.u@gmail.com) 
+
+José Rafael Mora González: Investigador postdoctoral (jmorag@ugr.es)
+
+José Ángel Toval Sánchez: Investigador postdoctoral (joseangel.toval@um.es) 
+
+Isabel Martín Fuentes: Investigadora postdoctoral, (isamartinf@ugr.es)
+
+Beatriz Fernández Gámez: Investigadora predoctoral, (beatrizfg@ugr.es)
+
+Marcos Olvera Rojas: Investigador predoctoral, (olvera@ugr.es)
+
+Andrea Coca Pulido: Investigadora predoctoral,(acocapulido@ugr.es)
+
+Darío Bellón Fernández: Investigador predoctoral,  (dariobellon@ugr.es)
+
+Alessandro Sclafani: Investigador predoctoral, (alessandro.sclafani0@gmail.com)
+
+Carlos Prieto Lara: (carlosprieto92@gmail.com)
+
+Javier Fernández Ortega:  (jfdezortega@correo.ugr.es)
+
+
+**Full protocols will be available soon.**
+
+
+_____________________________________________________________________________________________________
+
+# Resistance Exercise Program in Cognitively Normal Older Adults: CERT-Based Exercise Protocol of the AGUEDA Randomized Controlled Trial
+
+_____________________________________________________________________________________________________
 Materiales utilizados en el programa de ejercicio de fuerza del proyecto AGUEDA (Active Gains in brain Using Exercise during Aging)
 _____________________________________________________________________________________________________
 
@@ -61,65 +126,6 @@ Javier Fernández Ortega:  (jfdezortega@correo.ugr.es)
 **Los materiales estarán disponibles pronto.**
 
 
-_____________________________________________________________________________________________________
-_____________________________________________________________________________________________________
-
-Materials used in the Resistance exercise program of the AGUEDA project (Active Gains in brain Using Exercise during Aging)
-_____________________________________________________________________________________________________
-
-The objective is to provide a comprehensive description based on CERT (Consensus on Exercise Reporting Template) guidelines of the resistance exercise program implemented in the AGUEDA (Active Gains in brain Using Exercise during Aging) project, a randomized controlled trial investigating the effects of a 24-week supervised strength exercise program on brain health in cognitively normal older adults.  The training program conducted in the AGUEDA project is a low-cost, feasible (which favors its applicability to any population and context), evidence-based and replicable program. The AGUEDA training program materials will serve researchers and public health professionals who wish to implement a feasible 24-week evidence-based strength/endurance exercise program in cognitively normal older adults with potential brain health benefits.
-
-The AGUEDA program consists of a combination of upper and lower extremity exercises using elastic bands and one's own body weight as the primary resistance. The exercises focus on basic movement patterns. The load and intensity are based on the specific resistance of the elastic bands (7 resistances), the number of repetitions (individualized), the motor complexity of the exercises (3 levels), the sets and rest (3 sets/60 seconds rest), the execution time (40-60 seconds) and the speed (as fast as possible). The maximum prescribed-target intensity was 70-80% of the participants' maximum perceived exertion (7-8 RPE). It also allows the recording of heart rate, sleep quality and sensation scale.
-The materials available are: 
-
--File A1 Registration sheet used by the participant.
-
--File A2 Training sheets
-
--File A3 Individual Excel for registration of exercise data.
-
--File A4 Generic Excel for registration of exercise data.
-
--File A5 Resistance exercise program of the AGUEDA trial: Paper guide.
-
--File A6 Resistance exercise program of the AGUEDA trial: Video guide
-
--File A7 Adverse event questionnaire
-
--File A8 Online exercise program guide
-
--File A9 Flyer personal training center
-
- The following is a list of the researchers of the project
-_____________________________________________________________________________________________________
-RESEARCH TEAM OF THE AGUEDA TRIAL:
-
-Irene Esteban Cornejo: Investigadora Principal del proyecto (ireneesteban@ugr.es)
-
-Patricio Solís Urra: Coordinador del proyecto (patricio.solis.u@gmail.com) 
-
-José Rafael Mora González: Investigador postdoctoral (jmorag@ugr.es)
-
-José Ángel Toval Sánchez: Investigador postdoctoral (joseangel.toval@um.es) 
-
-Isabel Martín Fuentes: Investigadora postdoctoral, (isamartinf@ugr.es)
-
-Beatriz Fernández Gámez: Investigadora predoctoral, (beatrizfg@ugr.es)
-
-Marcos Olvera Rojas: Investigador predoctoral, (olvera@ugr.es)
-
-Andrea Coca Pulido: Investigadora predoctoral,(acocapulido@ugr.es)
-
-Darío Bellón Fernández: Investigador predoctoral,  (dariobellon@ugr.es)
-
-Alessandro Sclafani: Investigador predoctoral, (alessandro.sclafani0@gmail.com)
-
-Carlos Prieto Lara: (carlosprieto92@gmail.com)
-
-Javier Fernández Ortega:  (jfdezortega@correo.ugr.es)
 
 
-
-
-**Full protocols will be available soon.**
 
