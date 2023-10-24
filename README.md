@@ -57,8 +57,6 @@ Carlos Prieto Lara: (carlosprieto92@gmail.com)
 Javier Fernández Ortega:  (jfdezortega@correo.ugr.es)
 
 
-**Full protocols will be available soon.**
-
 
 _____________________________________________________________________________________________________
 
@@ -119,11 +117,6 @@ Alessandro Sclafani: Investigador predoctoral, (alessandro.sclafani0@gmail.com)
 Carlos Prieto Lara: (carlosprieto92@gmail.com)
 
 Javier Fernández Ortega:  (jfdezortega@correo.ugr.es)
-
-
-
-
-**Los materiales estarán disponibles pronto.**
 
 
 
