@@ -1,5 +1,8 @@
 
-#Resistance Exercise Program in Cognitively Normal Older Adults: CERT-Based Exercise Protocol of the AGUEDA Randomized Controlled Trial
+_____________________________________________________________________________________________________
+
+# Resistance Exercise Program in Cognitively Normal Older Adults: CERT-Based Exercise Protocol of the AGUEDA Randomized Controlled Trial
+
 _____________________________________________________________________________________________________
 
 Materials used in the Resistance exercise program of the AGUEDA project (Active Gains in brain Using Exercise during Aging)
