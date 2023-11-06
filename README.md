@@ -66,6 +66,14 @@ Carlos Prieto Lara: Researcher in charge of the exercise program (carlosprieto92
 
 Javier Fernández Ortega: Researcher in charge of the control group exercise program (jfdezortega@correo.ugr.es)
 
+OTHER COLLABORATORS:
+
+Cristina Molina Hidalgo: Postdoctoral researcher (cristinamolinapsico@gmail.com)
+
+Claudia Liliana Costa Rodríguez: Researcher (costarodriguezclaudia@gmail.com)
+
+Encarnación Yolanda García Rivero: Nurse of Nuclear medicine, assisting PET assessment (encarnacion.garcia.rivero.sspa@juntadeandalucia.es)
+
 
 _____________________________________________________________________________________________________
 
@@ -131,6 +139,14 @@ Alessandro Sclafani: Investigador predoctoral, encargado de la acelerometría, p
 Carlos Prieto Lara: Investigador encargado del programa de ejercicio (carlosprieto92@gmail.com)
 
 Javier Fernández Ortega: Investigador encargado del programa de ejercicio del grupo control (jfdezortega@correo.ugr.es)
+
+OTRAS COLABORADORAS:
+
+Cristina Molina Hidalgo: Investigadora postdoctoral (cristinamolinapsico@gmail.com)
+
+Claudia Liliana Costa Rodríguez: Investigadora (costarodriguezclaudia@gmail.com)
+
+Encarnación Yolanda García Rivero: Enfermera de medicina Nuclear, prueba PET (encarnacion.garcia.rivero.sspa@juntadeandalucia.es)
 
 
 
