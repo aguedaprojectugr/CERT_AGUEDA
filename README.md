@@ -39,30 +39,31 @@ The materials available are:
 _____________________________________________________________________________________________________
 RESEARCH TEAM OF THE AGUEDA TRIAL:
 
-Irene Esteban Cornejo: Investigadora Principal del proyecto (ireneesteban@ugr.es)
+Irene Esteban Cornejo: Principal Investigator of the project (ireneesteban@ugr.es)
 
-Patricio Solís Urra: Coordinador del proyecto (patricio.solis.u@gmail.com) 
+Patricio Solís Urra: Project coordinator (patricio.solis.u@gmail.com)
 
-José Rafael Mora González: Investigador postdoctoral (jmorag@ugr.es)
+José Rafael Mora González: Postdoctoral researcher (jmorag@ugr.es)
 
-José Ángel Toval Sánchez: Investigador postdoctoral (joseangel.toval@um.es) 
+José Ángel Toval Sánchez: Postdoctoral researcher (joseangel.toval@um.es)
 
-Isabel Martín Fuentes: Investigadora postdoctoral, (isamartinf@ugr.es)
+Isabel Martín Fuentes: Postdoctoral researcher, in charge of gait variability analysis and DXA analyses (isamartinf@ugr.es)
 
-Beatriz Fernández Gámez: Investigadora predoctoral, (beatrizfg@ugr.es)
+Manuel Gómez Río: Nuclear medicine specialist in charge of PET (manuel.gomez.rio.sspa@juntadeandalucia.es)
 
-Marcos Olvera Rojas: Investigador predoctoral, (olvera@ugr.es)
+Beatriz Fernández Gámez: Predoctoral researcher, exercise program coordinator, and in charge of PET session (beatrizfg@ugr.es)
 
-Andrea Coca Pulido: Investigadora predoctoral,(acocapulido@ugr.es)
+Marcos Olvera Rojas: Predoctoral researcher, in charge of biological samples and co-responsable person of the exercise program (olvera@ugr.es)
 
-Darío Bellón Fernández: Investigador predoctoral,  (dariobellon@ugr.es)
+Andrea Coca Pulido: Predoctoral researcher, in charge of MRI, cognitive tests and anthropometric measurements (acocapulido@ugr.es)
 
-Alessandro Sclafani: Investigador predoctoral, (alessandro.sclafani0@gmail.com)
+Darío Bellón Fernández: Predoctoral researcher, in charge of MRI, cognitive tests, and questionnaires (dariobellon@ugr.es)
 
-Carlos Prieto Lara: (carlosprieto92@gmail.com)
+Alessandro Sclafani: Predoctoral researcher, in charge of accelerometry, strength tests and physical condition tests (alessandro.sclafani0@gmail.com)
 
-Javier Fernández Ortega:  (jfdezortega@correo.ugr.es)
+Carlos Prieto Lara: Researcher in charge of the exercise program (carlosprieto92@gmail.com)
 
+Javier Fernández Ortega: Researcher in charge of the control group exercise program (jfdezortega@correo.ugr.es)
 
 
 _____________________________________________________________________________________________________
