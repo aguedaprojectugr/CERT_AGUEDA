@@ -64,7 +64,9 @@ Javier Fernández Ortega:  (jfdezortega@correo.ugr.es)
 _____________________________________________________________________________________________________
 
 # Programa de ejercicio de fuerza en adultos mayores cognitivamente sanos del proyecto AGUEDA
+
 _____________________________________________________________________________________________________
+
 Materiales utilizados en el programa de ejercicio de fuerza del proyecto AGUEDA (Active Gains in brain Using Exercise during Aging)
 _____________________________________________________________________________________________________
 
