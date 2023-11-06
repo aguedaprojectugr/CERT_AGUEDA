@@ -31,11 +31,12 @@ The materials available are:
 
 -File A9 Flyer personal training center
 
+The head trainer and coordinator of the AGUEDA trial exercise program was Beatriz Fernández Gámez and the second trainer was Marcos Olvera Rojas. Furthermore, Javier Ortega Fernández and Carlos Prieto Lara were in charge of the training sessions of the control group.
 
 ***In addition, the CERT paper is already published and you can find the document in this repository entitled: "Fernandez-Gamez 2023 - Resistance Exercise Program in Cognitively Normal Older Adults. CERT Based Protocol of the AGUEDA RCT"***
 
 
- The following is a list of the researchers of the project
+ The following is a list of the researchers of the project.
 _____________________________________________________________________________________________________
 RESEARCH TEAM OF THE AGUEDA TRIAL:
 
@@ -98,7 +99,9 @@ Los materiales disponibles son:
 
 -Documento A9. Flyer centro entrenamiento personal
 
- A continuación se muestra un listado con los investigadores del proyecto
+La entrenadora principal y coordinadora del programa de ejercicio de AGUEDA fue Beatriz Fernández Gámez y el segundo entrenador fue Marcos Olvera Rojas. Además, Javier Ortega Fernández y Carlos Prieto Lara estuvieron a cargo de los entrenamientos del grupo de control.
+
+ A continuación se muestra un listado con los investigadores del proyecto.
 
 _____________________________________________________________________________________________________
 EQUIPO DE INVESTIGADORES DEL PROYECTO AGUEDA:
