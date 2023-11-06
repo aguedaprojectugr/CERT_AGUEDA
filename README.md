@@ -31,6 +31,10 @@ The materials available are:
 
 -File A9 Flyer personal training center
 
+
+***In addition, the CERT paper is already published and you can find the document in this repository entitled: "Fernandez-Gamez 2023 - Resistance Exercise Program in Cognitively Normal Older Adults. CERT Based Protocol of the AGUEDA RCT"***
+
+
  The following is a list of the researchers of the project
 _____________________________________________________________________________________________________
 RESEARCH TEAM OF THE AGUEDA TRIAL:
