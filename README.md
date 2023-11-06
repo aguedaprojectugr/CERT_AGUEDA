@@ -112,6 +112,8 @@ José Ángel Toval Sánchez: Investigador postdoctoral (joseangel.toval@um.es)
 
 Isabel Martín Fuentes: Investigadora postdoctoral, (isamartinf@ugr.es)
 
+Manuel Gómez Río: Especialista en medicina nuclear, encargado del PET (manuel.gomez.rio.sspa@juntadeandalucia.es)
+
 Beatriz Fernández Gámez: Investigadora predoctoral, (beatrizfg@ugr.es)
 
 Marcos Olvera Rojas: Investigador predoctoral, (olvera@ugr.es)
