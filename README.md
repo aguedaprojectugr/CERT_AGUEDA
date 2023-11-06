@@ -63,8 +63,7 @@ Javier Fernández Ortega:  (jfdezortega@correo.ugr.es)
 
 _____________________________________________________________________________________________________
 
-# Resistance Exercise Program in Cognitively Normal Older Adults: CERT-Based Exercise Protocol of the AGUEDA Randomized Controlled Trial
-
+# Programa de ejercicio de fuerza en adultos mayores cognitivamente sanos del proyecto AGUEDA
 _____________________________________________________________________________________________________
 Materiales utilizados en el programa de ejercicio de fuerza del proyecto AGUEDA (Active Gains in brain Using Exercise during Aging)
 _____________________________________________________________________________________________________
