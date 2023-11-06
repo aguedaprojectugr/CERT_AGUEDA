@@ -111,25 +111,23 @@ José Rafael Mora González: Investigador postdoctoral (jmorag@ugr.es)
 
 José Ángel Toval Sánchez: Investigador postdoctoral (joseangel.toval@um.es) 
 
-Isabel Martín Fuentes: Investigadora postdoctoral, (isamartinf@ugr.es)
+Isabel Martín Fuentes: Investigadora postdoctoral, encargada del análisis de variabilidad de la marcha y análisis DXA (isamartinf@ugr.es)
 
 Manuel Gómez Río: Especialista en medicina nuclear, encargado del PET (manuel.gomez.rio.sspa@juntadeandalucia.es)
 
-Beatriz Fernández Gámez: Investigadora predoctoral, (beatrizfg@ugr.es)
+Beatriz Fernández Gámez: Investigadora predoctoral, coordinadora del programa de ejercicio y encargada de la sesión PET (beatrizfg@ugr.es)
 
-Marcos Olvera Rojas: Investigador predoctoral, (olvera@ugr.es)
+Marcos Olvera Rojas: Investigador predoctoral, encargado de las muestras biológicas y corresponsable del programa de ejercicio (olvera@ugr.es)
 
-Andrea Coca Pulido: Investigadora predoctoral,(acocapulido@ugr.es)
+Andrea Coca Pulido: Investigadora predoctoral, encargada de las pruebas de MRI, pruebas cognitivas y medidas antropométricas (acocapulido@ugr.es)
 
-Darío Bellón Fernández: Investigador predoctoral,  (dariobellon@ugr.es)
+Darío Bellón Fernández: Investigador predoctoral, encargado de las pruebas MRI, pruebas cognitivas y cuestionarios (dariobellon@ugr.es)
 
-Alessandro Sclafani: Investigador predoctoral, (alessandro.sclafani0@gmail.com)
+Alessandro Sclafani: Investigador predoctoral, encargado de la acelerometría, pruebas de fuerza y pruebas de condición física (alessandro.sclafani0@gmail.com)
 
-Carlos Prieto Lara: (carlosprieto92@gmail.com)
+Carlos Prieto Lara: Investigador encargado del programa de ejercicio (carlosprieto92@gmail.com)
 
-Javier Fernández Ortega:  (jfdezortega@correo.ugr.es)
-
-
+Javier Fernández Ortega: Investigador encargado del programa de ejercicio del grupo control (jfdezortega@correo.ugr.es)
 
 
 
